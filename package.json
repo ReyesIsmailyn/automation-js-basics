@@ -1,0 +1,20 @@
+{
+  "name": "automation-js-basics",
+  "version": "1.0.0",
+  "description": "Automation learning",
+  "keywords": [
+    "js",
+    "node.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "license": "ISC",
+  "author": "Ismailyn Reyes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
